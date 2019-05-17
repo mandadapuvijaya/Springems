@@ -1,2 +1,6 @@
 1.hr@techfortindia.com
+<<<<<<< HEAD
 2.www.google.com
+=======
+3.www.wipro.com
+>>>>>>> b1f897544ffbefe1325352a79bee4a0eb33622eb
